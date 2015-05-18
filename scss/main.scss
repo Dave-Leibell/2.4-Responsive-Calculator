@@ -1,2 +1,170 @@
 @import '../bower_components/bourbon/app/assets/stylesheets/bourbon';
 @import '../bower_components/neat/app/assets/stylesheets/neat';
+
+h2{
+  padding-left: 165px;
+  font-family: helvetica;
+  font-size: 2em;
+  font-weight: lighter;
+}
+.chrome{
+  height: 20px;
+  width: 25%;
+  background: #4c4c4c;
+  border-radius: 10%;
+}
+.exit-button{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-left: 2.5%;
+  line-height: 10px;
+  line-height: 10px;
+  border: 1px solid #ec3238;
+  border-radius: 50%;
+  background: #ec3238;
+}
+.min-button{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  line-height: 10px;
+  line-height: 10px;
+  border: 1px solid #fed148;
+  border-radius: 50%;
+  background: #fed148;
+}
+.max-button{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  line-height: 10px;
+  line-height: 10px;
+  border: 1px solid #31b55a;
+  border-radius: 50%;
+  background: #31b55a;
+}
+.clear-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+}
+.integer-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+}
+.percentage-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+}
+.divide-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+  background: #fa8f4c;
+  color: #ffffff;
+}
+.seven-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+}
+.eight-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+}
+.nine-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+}
+.mult-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+  background: #fa8f4c;
+  color: #ffffff;
+}
+.four-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+}
+.five-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+}
+.six-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+}
+.minus-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+  background: #fa8f4c;
+  color: #ffffff;
+}
+.one-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+}
+.two-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+}
+.three-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+}
+.plus-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+  background: #fa8f4c;
+  color: #ffffff;
+}
+.zero-button{
+  height: 45px;
+  width: 94px;
+  font-size: 1em;
+  font-family: helvetica;
+}
+.decimal-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+}
+.equals-button{
+  height: 45px;
+  width: 45px;
+  font-size: 1em;
+  font-family: helvetica;
+  color: #ffffff;
+  background: #fa8f4c;
+}
